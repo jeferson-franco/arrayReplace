@@ -1,0 +1,20 @@
+{
+  "name": "arrayreplace",
+  "version": "1.0.0",
+  "description": "Given an array of integers, replace all the occurrences of `elemToReplace` with `substitutionElem`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/arrayReplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/arrayReplace/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/arrayReplace#readme"
+}
