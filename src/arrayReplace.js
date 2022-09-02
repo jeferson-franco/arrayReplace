@@ -13,3 +13,8 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test arrayReplace
+
+// alternative solution
+// function solution(inputArray, elemToReplace, substitutionElem) {
+//     return inputArray.map((i) => (i == elemToReplace ? substitutionElem : i));
+// }
